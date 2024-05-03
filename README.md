@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARSHIL5OP
 - My full name is Harshil Dodwani
-- 👀 I’m interested in Web Development
+- 👀 I wanna be a Full Stack Web Developer
 - 🌱 I’m currently learning NodeJS ReactJS
 - 📫 How to reach me - dodwaniharshil3@gmail.com
 
